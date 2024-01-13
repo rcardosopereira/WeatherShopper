@@ -87,19 +87,19 @@ To run the test in the Docker, please run the command below:
 > ```
 
 ### References:
-https://www.npmjs.com/package/cypress-iframe
-https://www.browserstack.com/guide/frames-and-iframes-in-cypress
-https://www.lambdatest.com/blog/how-to-handle-iframes-in-cypress/
-https://www.cypress.io/blog/2020/02/12/working-with-iframes-in-cypress
-https://docs.cypress.io/guides/guides/web-security#External-Navigation
-https://www.browserstack.com/guide/how-to-fill-and-submit-forms-in-cypress
-https://www.youtube.com/watch?v=LQCcwl6kuRU&ab_channel=Agilizei
-https://www.youtube.com/watch?v=3NjVUqiC2dI&ab_channel=Techbrothers99
-https://www.youtube.com/watch?v=K5ZKrnLIMJk&ab_channel=JoanMedia
+https://www.npmjs.com/package/cypress-iframe<br>
+https://www.browserstack.com/guide/frames-and-iframes-in-cypress<br>
+https://www.lambdatest.com/blog/how-to-handle-iframes-in-cypress/<br>
+https://www.cypress.io/blog/2020/02/12/working-with-iframes-in-cypress<br>
+https://docs.cypress.io/guides/guides/web-security#External-Navigation<br>
+https://www.browserstack.com/guide/how-to-fill-and-submit-forms-in-cypress<br>
+https://www.youtube.com/watch?v=LQCcwl6kuRU&ab_channel=Agilizei<br>
+https://www.youtube.com/watch?v=3NjVUqiC2dI&ab_channel=Techbrothers99<br>
+https://www.youtube.com/watch?v=K5ZKrnLIMJk&ab_channel=JoanMedia<br>
 
 ### Credit Card Fake Generator
-https://www.duplichecker.com/pt/credit-card-generator.php
-https://stripe.com/docs/testing?locale=pt-BR
+https://www.duplichecker.com/pt/credit-card-generator.php<br>
+https://stripe.com/docs/testing?locale=pt-BR<br>
 
 ### Support
 Please, if you have some questions, feel free to write me. My e-mail is rcardosopereira@gmail.com
