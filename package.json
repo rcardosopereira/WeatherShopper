@@ -1,0 +1,30 @@
+{
+  "name": "weathershopper",
+  "version": "1.0.0",
+  "description": "UI Task Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cy:run": "cypress run --spec 'cypress/e2e/**/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcardosopereira/WeatherShopper.git"
+  },
+  "keywords": [
+    "JS",
+    "Cypress",
+    "Docker"
+  ],
+  "author": "Rafael C. Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcardosopereira/WeatherShopper/issues"
+  },
+  "homepage": "https://github.com/rcardosopereira/WeatherShopper#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "cypress-iframe": "^1.0.1"
+  }
+}
